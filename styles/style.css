@@ -1,8 +1,19 @@
 h1{
   text-align:center;
   color: #06801d;
+  background-color:white;
+  letter-spacing:10px;
+  font-family: "Lucida Console", Courier, monospace;
+  padding: 25px 25px 25px 25px;
+}
+
+body{
+  background-color:#407109;
 }
 
 p{
   text-align:center;
+  color:white;
+  font-family: "Lucida Console", Courier, monospace;
+  outline-style:dashed;
 }
