@@ -1,7 +1,6 @@
 Web Dev Practice
 
 Practiced Skills:
-  -HTML
-  -CSS
-  
+HTML, CSS
+
 Used Technologies:
