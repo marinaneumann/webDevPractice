@@ -1,14 +1,16 @@
 h1{
   text-align:center;
-  color: #06801d;
+  color: white;
   background-color:white;
   letter-spacing:10px;
   font-family: "Lucida Console", Courier, monospace;
-  padding: 25px 25px 25px 25px;
+  padding: 150px 150px 150px 150px;
+  background-image: url(https://cdn.geekwire.com/wp-content/uploads/2019/06/bigstock-Portland-Oregon-USA-skyline-247939699-630x420.jpg);
 }
 
 body{
   background-color:#407109;
+  /*background-image: url(images/Pdx1.jpg);*/
 }
 
 p{
